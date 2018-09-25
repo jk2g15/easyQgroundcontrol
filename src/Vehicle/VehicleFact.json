@@ -92,7 +92,7 @@
 },
 {
     "name":             "flightTime",
-    "shortDescription": "Flight Time",
+    "shortDescription": "KARI Flight Time",
     "type":             "elapsedSeconds",
     "decimalPlaces":    1
 },
